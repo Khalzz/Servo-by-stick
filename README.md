@@ -1,9 +1,17 @@
 # Servo por joystick
 
 Este "mini proyecto" es parte de mi estudio de arduino y su función principal es servirme como guia/recordatorio a futuro para hacer proyectos mas grandes con este mismo codigo/funcionalidad.
+
+Materiales:
++ arduino
++ protoboard
++ 2 entradas de electricidad (uno de  5 o 9 volts y otro de preferiblemente 5 volts)
++ cables (general, estos pueden variar de los modelos de servos o en su defecto otros tipos de materiales)
++ 1 stick
++ 1 servo motor (en mi caso es un micro servo motor)
 ---
 ## Circuito
-
+El circuito no es complejo pero requieres de 2 fuentes de energia, pues la energia que sale del arduino luego de pasar por el mismo no es suficiente para alimentar el mismo, asi que este es un tema a tomar en cuenta y debes recordar que si o si debe haber una "tierra" en el protoboard que esta entre la bateria de 9v y el motor, esta va conectado a alguna entrada de tierra del arduino (cualquiera) sin esto el circuito **no funcionara**
 ![Image not found](https://github.com/Khalzz/Servo-by-stick/blob/master/arduinoCircuit.jpg)
 ---
 ## Cosas a tomar en cuenta
