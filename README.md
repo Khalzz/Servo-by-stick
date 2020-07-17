@@ -13,7 +13,6 @@ Materiales:
 + 1 servo motor (en mi caso es un micro servo motor)
 ---
 ## Circuito
-El circuito no es complejo pero requieres de 2 fuentes de energia, pues la energia que sale del arduino luego de pasar por el mismo no es suficiente para alimentar el mismo, asi que este es un tema a tomar en cuenta y debes recordar que si o si debe haber una "tierra" en el protoboard que esta entre la bateria de 9v y el motor, esta va conectado a alguna entrada de tierra del arduino (cualquiera) sin esto el circuito **no funcionara**
 ![Image not found](https://github.com/Khalzz/Servo-by-stick/blob/master/arduinoCircuit.jpg)
 ---
 ## Cosas a tomar en cuenta
