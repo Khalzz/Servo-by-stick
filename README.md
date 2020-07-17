@@ -2,6 +2,8 @@
 
 Este "mini proyecto" es parte de mi estudio de arduino y su función principal es servirme como guia/recordatorio a futuro para hacer proyectos mas grandes con este mismo codigo/funcionalidad.
 
+Importante, el archivo de codigo es el archivo `.ino`
+
 Materiales:
 + arduino
 + protoboard
