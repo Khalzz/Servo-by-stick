@@ -22,11 +22,11 @@ void loop()
   }
   
   if(joystick <= 450){
-     servoEstado = servoEstado - 2;
+     servoEstado = servoEstado - 3;
   }
   
   else if(joystick >= 550){
-     servoEstado = servoEstado + 2;
+     servoEstado = servoEstado + 3;
   }
   
   if (servoEstado >= 180){
