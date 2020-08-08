@@ -3,7 +3,7 @@
 Servo servo; 
 int stickX = 0; //esta variable la toma como "punto base" del stick
   
-int valorServo; //determinamos el "angullo del servo motor" a un valor nulo por ahora
+int servoVal; //determinamos el "angullo del servo motor" a un valor nulo por ahora
   
 void setup() 
 {
