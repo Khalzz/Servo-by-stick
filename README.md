@@ -2,7 +2,7 @@
 
 Este "mini proyecto" es parte de mi estudio de arduino y su función principal es servirme como guia/recordatorio a futuro para hacer proyectos mas grandes con este mismo codigo/funcionalidad.
 
-**Importante, el archivo de codigo es el archivo `.ino`**
+**Importante, hay mas de 1 archivo de código, ambos tienen distintas formas de funcionar,pero estos 2 requieren de el mismo tipo de conexión, los archivos de código son los archivos `.ino`**
 
 Materiales:
 + arduino
@@ -17,7 +17,7 @@ Materiales:
 ---
 ## Cosas a tomar en cuenta
 
-+ podemos cambiar las baterias de 9v por una entrada de 5v como un enchufe usb o el mismo usb de arduino
++ podemos cambiar las baterias de 9v por una entrada de 5v como un enchufe usb o otros
 
 + a pesar de tener una entrada de energia (la bateria) debemos usar tambien una entrada de energia al arduino (usb o otro medio)
 
