@@ -17,6 +17,11 @@ Materiales:
 ---
 ## Cosas a tomar en cuenta
 
++ el stick esta en este caso conectado 
+  + **`gnd a puerto gnd de arduino`** 
+  + **`5 volts a puerto 5 volts de arduino`** 
+  + **`entrada horizontal o en su defecto vrx a puerto analogo "A0"`**
+
 + podemos cambiar las baterias de 9v por una entrada de 5v como un enchufe usb o otros
 
 + a pesar de tener una entrada de energia (la bateria) debemos usar tambien una entrada de energia al arduino (usb o otro medio)
